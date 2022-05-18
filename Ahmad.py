@@ -1,6 +1,6 @@
 import os
 
-os.system('gitpull')
+os.system('git pull')
 os.system('termux-setup-storage')
 import AhmadS
 Main()
